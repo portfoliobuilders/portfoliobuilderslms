@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52436006512",
+    "project_id": "portfoliobuilderslms-f693e",
+    "storage_bucket": "portfoliobuilderslms-f693e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52436006512:android:ea85640acdd834713f66b5",
+        "android_client_info": {
+          "package_name": "com.example.portfoliobuilderslms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo4B936u_KK6cgmXcWeQk844WIET72yq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
